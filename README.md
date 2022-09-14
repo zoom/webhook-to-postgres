@@ -174,7 +174,7 @@ While your app is running on port 3000, go to the WebPortal [here](https://zoom.
 
 You can add as many events as you want and they all will be stored in your database.
 
-Happy coding! :)
+Happy coding! 
 
 
 ## Need help?
