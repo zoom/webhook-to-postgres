@@ -18,7 +18,7 @@ Open your terminal:
 
 ```bash
 # Clone down this repository
-git clone https://github.com/elisalevet/mywebhook-app.git
+git clone https://github.com/zoom/webhook-to-postgres
 
 # Navigate into the cloned project directory
 cd mywebhook-app 
