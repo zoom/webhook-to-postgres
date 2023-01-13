@@ -11,6 +11,9 @@ This is a sample app using a Webhook Only App to send events to a PostgreSQL Dat
 3. PostgreSQL 
 4. Zoom Account
 5. Webhook only app credentials
+      - Account ID
+      - Client ID
+      - Client Secret
 
 ## Getting started
 
